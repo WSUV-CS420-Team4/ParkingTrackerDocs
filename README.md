@@ -21,3 +21,6 @@ Sponsor: [South Waterfront](http://www.southwaterfront.com/)
 - Bob
 - Jason
 
+## Current Status
+
+All existing documentation from CS 420 has been imported. Further documentation and design artifacts will be added to the repository as created.
