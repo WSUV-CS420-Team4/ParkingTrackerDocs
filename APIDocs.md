@@ -26,7 +26,7 @@
 
 ### Endpoint
 
-`https://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/blockfaces`    ←- POST
+`POST https://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/blockfaces`
 
 ## Authentication
 
@@ -34,7 +34,7 @@
 
 #### Endpoint
 
-http://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/login
+`POST http://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/login`
 
 #### Input
 
