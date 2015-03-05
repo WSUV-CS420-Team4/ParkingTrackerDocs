@@ -34,7 +34,7 @@
 
 #### Endpoint
 
-`POST http://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/login`
+`POST https://bend.encs.vancouver.wsu.edu/~jason_moss/api/v1/login`
 
 #### Input
 
